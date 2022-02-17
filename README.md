@@ -1,3 +1,7 @@
+![IMG_9486](https://user-images.githubusercontent.com/91262561/154547867-cb386cd9-858e-4597-bc35-50e9ee7e3670.jpeg)
+
+Graduation 2021:
+from the left: [Alessandro Perri](https://github.com/PerriAlessandro), [Luca Predieri](https://github.com/LucaPredieri), [Matteo Carlone](https://github.com/MatteoCarlone), [ME](https://github.com/Fabioconti99), [Francesco Pagano](https://github.com/FraPagano). 
 ### Hi there 👋
 
 Here are some ideas to get you started:
