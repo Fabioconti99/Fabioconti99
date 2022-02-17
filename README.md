@@ -12,21 +12,18 @@ Here are some ideas to get you started:
 * 📫 How to reach me: 
    <a href="https://www.instagram.com/fabio_conti/">
 
-  <img align="left" alt="Fabio's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" />
+  <img align="left" alt="Fabio's Instagram" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" />
 
 </a>  
 
    <a href="https://it.linkedin.com">
 
-  <img align="left" alt="Fabio's linkedin" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
+  <img align="left" alt="Fabio's linkedin" width="40px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 
 </a>
 
    <a href="fabio_conti99@yahoo.it">
 
-  <img align="left" alt="Fabio's Email Address" width="22px" src="https://www.pngkit.com/png/full/84-841048_envelop-email-icon-email-icon-png-red.png" />
+  <img align="left" alt="Fabio's Email Address" width="40px" src="https://www.pngkit.com/png/full/84-841048_envelop-email-icon-email-icon-png-red.png" />
 
 </a>
-
-
-* 🌊 Fun fact: I love sking ⛷ and swimming 🏊‍♂️
