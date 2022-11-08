@@ -1,7 +1,8 @@
-![IMG_9486 2](https://user-images.githubusercontent.com/91262561/154549130-837d32ab-74d9-4979-8ca7-56012506d20e.jpeg)
 
-Graduation 2021:
-from the left: [Alessandro Perri](https://github.com/PerriAlessandro), [Luca Predieri](https://github.com/LucaPredieri), [Matteo Carlone](https://github.com/MatteoCarlone), [ME](https://github.com/Fabioconti99), [Francesco Pagano](https://github.com/FraPagano). 
+![IMG_1434](https://user-images.githubusercontent.com/91262561/200648881-53c01098-886b-42a4-bb14-ec7f2aa2714f.jpeg)
+
+Le Mont-Saint-Michel 10-2022
+
 ### Hi there 👋
 
 Here are some ideas to get you started:
