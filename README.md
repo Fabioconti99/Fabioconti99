@@ -1,5 +1,5 @@
 
-![IMG_1434](https://user-images.githubusercontent.com/91262561/200648881-53c01098-886b-42a4-bb14-ec7f2aa2714f.jpeg)
+![IMG_1434](https://user-images.githubusercontent.com/91262561/200649208-d2afd30c-71b2-4f23-b679-92c28506c4f3.jpeg)
 
 Le Mont-Saint-Michel 10-2022
 
